@@ -1,0 +1,6 @@
+*_pnr.json
+*.fs
+*.json
+___module_export.json
+
+!*.lushay.json
